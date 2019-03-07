@@ -27,6 +27,7 @@ I have to create a website for using wikipedia search only through the wikipedia
 * Progress Opportunities:
   * Use of keybord keys to navigate through the results suggestions and to launch the research button.
   * Menu of results on the left is not optimized as sometimes its full content is somehow hidden and cannot get accessed.
+  * The general style (layout, colors, ...).
 
 * Try it out ! :
 	* [NewWiki](https://fesouille.github.io/NewWiki/)
