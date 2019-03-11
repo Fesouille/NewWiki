@@ -33,9 +33,10 @@ I have to create a website for using wikipedia search only through the wikipedia
 	* [NewWiki](https://fesouille.github.io/NewWiki/)
 
 * A few illustrating pictures:
-![Screenshot 1 NewWiki](assets/img/screenshot1.png)
-![Screenshot 2 NewWiki](assets/img/screenshot2.png)
-![Screenshot 3 NewWiki](assets/img/screenshot3.png)
+![Screenshot 1 NewWiki](img/screenshot1.png)
+![Screenshot 2 NewWiki](img/screenshot2.png)
+![Screenshot 3 NewWiki](img/screenshot3.png)
+![Screenshot 4 NewWiki](img/screenshot4.png)
 
 
 * Progress: 
