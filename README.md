@@ -4,7 +4,7 @@ NewWiki
 Project of [Ismail Joseph](https://github.com/Fesouille)
 ----------------------------------
 
-*Exercice realized from the 25 february 2019 to 28 february 2019, as a project for the formation [BeCode](https://www.becode.org/) to be a Web Developper*
+*Small Exercice for myself*
 
 
 * Project:
