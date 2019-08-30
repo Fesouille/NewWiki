@@ -37,8 +37,3 @@ I have to create a website for using wikipedia search only through the wikipedia
 ![Screenshot 2 NewWiki](img/screenshot2.png)
 ![Screenshot 3 NewWiki](img/screenshot3.png)
 ![Screenshot 4 NewWiki](img/screenshot4.png)
-
-
-* Progress: 
-	* 25 february 2019: project beginning.
-	* 28 february 2019: project end.
